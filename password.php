@@ -1,0 +1,1 @@
+flag{you_found_the_hidden_flag}
