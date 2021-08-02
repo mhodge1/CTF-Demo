@@ -1,0 +1,2 @@
+1. HTML and PHP Basics is needed. Mostly HTML!!
+2. View the page source carefully
